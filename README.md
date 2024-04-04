@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @AyangleimaCS
 - 👀 I’m interested in solving real time complex problems with machine learning, neural networks, AI, statistics, deep learning, LLM, NLP techniques
 - 🌱 I’m currently learning new technologies related to AIML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Contact me at ayang.laishram@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 AyangleimaCS/AyangleimaCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
